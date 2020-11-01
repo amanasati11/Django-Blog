@@ -7,7 +7,14 @@ Full-Featured Blog with Django web framework.
 
 Screenshots
 =
-
+![HomePage](https://user-images.githubusercontent.com/69810375/97808602-ebfb1800-1c8d-11eb-86c0-c0eb7cd676af.PNG)
+![HomePage2](https://user-images.githubusercontent.com/69810375/97808635-15b43f00-1c8e-11eb-9b30-7968bbc04b84.PNG)
+![EditPost](https://user-images.githubusercontent.com/69810375/97808671-3e3c3900-1c8e-11eb-976e-35ddc4cdad8d.PNG)
+![AddPost](https://user-images.githubusercontent.com/69810375/97808692-51e79f80-1c8e-11eb-84c4-5718f4d714a9.PNG)
+![EditProfile](https://user-images.githubusercontent.com/69810375/97808724-7b083000-1c8e-11eb-8361-f965affc98ad.PNG)
+![SignUp](https://user-images.githubusercontent.com/69810375/97808742-96733b00-1c8e-11eb-9b19-c67a54c49aa2.PNG)
+![LoginPage](https://user-images.githubusercontent.com/69810375/97808747-a12dd000-1c8e-11eb-97f4-f75c79cc3abe.PNG)
+![PasswordReset](https://user-images.githubusercontent.com/69810375/97808759-adb22880-1c8e-11eb-8e49-ede89590dc48.PNG)
 
 Features 
 =
