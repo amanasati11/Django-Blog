@@ -65,27 +65,3 @@ $ python manage.py shell
 >>> exit()
 ```
 > You can edit posts via admin panel or from corrent user added post.
-## Project Structure
-
-C:.
-├───.idea
-│   ├───dictionaries
-│   └───inspectionProfiles
-├───blog
-│   ├───migrations
-│   │   └───__pycache__
-│   ├───static
-│   │   └───blog
-│   ├───templates
-│   │   └───blog
-│   └───__pycache__
-├───django_blog
-│   └───__pycache__
-├───media
-│   └───profile_pics
-└───users
-    ├───migrations
-    │   └───__pycache__
-    ├───templates
-    │   └───users
-    └───__pycache__
